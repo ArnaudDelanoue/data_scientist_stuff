@@ -16,3 +16,7 @@ https://class.coursera.org/ml-003/lecture
 
 ## Free Training
 http://bigdatauniversity.com/courses/
+
+http://cm.dce.harvard.edu/2015/01/14328/publicationListing.shtml#
+
+https://github.com/datasciencemasters/go
