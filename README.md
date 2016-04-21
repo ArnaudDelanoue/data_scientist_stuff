@@ -13,3 +13,6 @@ http://www.cloudera.com/training/certification/ccp-ds.html
 ## Coursera ML
 
 https://class.coursera.org/ml-003/lecture
+
+## Free Training
+http://bigdatauniversity.com/courses/
