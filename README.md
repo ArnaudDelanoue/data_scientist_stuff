@@ -20,3 +20,7 @@ http://bigdatauniversity.com/courses/
 http://cm.dce.harvard.edu/2015/01/14328/publicationListing.shtml#
 
 https://github.com/datasciencemasters/go
+
+# Some Differences Between Pandas And Spark Dataframes
+
+https://github.com/christophebourguignat/notebooks/blob/master/Spark-Pandas-Differences.ipynb
