@@ -33,3 +33,7 @@ http://cs109.github.io/2015/
 ## Some Differences Between Pandas And Spark Dataframes
 
 https://github.com/christophebourguignat/notebooks/blob/master/Spark-Pandas-Differences.ipynb
+
+## scientific-python-lectures
+
+https://github.com/jrjohansson/scientific-python-lectures
